@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Slider-Tutorial/static/css/main.ac8670c9.css",
+    "main.js": "/React-Slider-Tutorial/static/js/main.86950146.js",
+    "static/js/787.2e20d26a.chunk.js": "/React-Slider-Tutorial/static/js/787.2e20d26a.chunk.js",
+    "index.html": "/React-Slider-Tutorial/index.html",
+    "main.ac8670c9.css.map": "/React-Slider-Tutorial/static/css/main.ac8670c9.css.map",
+    "main.86950146.js.map": "/React-Slider-Tutorial/static/js/main.86950146.js.map",
+    "787.2e20d26a.chunk.js.map": "/React-Slider-Tutorial/static/js/787.2e20d26a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac8670c9.css",
+    "static/js/main.86950146.js"
+  ]
+}
